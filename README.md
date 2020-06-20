@@ -50,7 +50,7 @@ For the moment my goal is to expand my artist skillset by learning how to work w
 
 ## Digital drawings
 
-[<img src="environment.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Environment/) [<img src="digital_concepts.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/) [<img src="digital_other.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
+[<img src="environment.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Environment/) [<img src="digital_concepts.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Concepts/) [<img src="digital_other.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
 
 ## Maya
 
