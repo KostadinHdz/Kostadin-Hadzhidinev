@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+### [Go to portfolio](https://kostadinhdz.github.io/KostadinHdzPortfolio.github.io/)
 
-You can use the [editor on GitHub](https://github.com/KostadinHdz/KostadinHdzPrototypeMain/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Kostadin Hadzhidinev
+I'm an aspiring artist that is currently getting into digital art. I also like to use different editors to create graphical modifications and assets for different games.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="imageofguy.png" width="270">
 
-### Markdown
+# Basic Info
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**My Flickr** - [https://www.flickr.com/people/188978073@N06/](https://www.flickr.com/people/188978073@N06/)
 
-```markdown
-Syntax highlighted code block
+**My Github** - [https://kostadinhdz.github.io/](https://kostadinhdz.github.io/)
 
-# Header 1
-## Header 2
-### Header 3
+**My Email** - kostadinh888@abv.bg
 
-- Bulleted
-- List
+**Place of study** - Saxion University of Applied Sciences - Enschede, The Netherlands
 
-1. Numbered
-2. List
+# About Me
 
-**Bold** and _Italic_ and `Code` text
+I'm but a humble junior artist that wants to study. Right now I'm focusing on learning how to draw digitally and exploring different software to create assets that can be used in games. When I have free time I like to draw(preferably with pencils for now) and I also enjoy creating mods for games using different editors. I like to draw character concepts, real life people and some other characters I've met throughout gaming and watching movies.
 
-[Link](url) and ![Image](src)
-```
+For the moment my goal is to expand my artist skillset by learning how to work with different popular programs.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Education
 
-### Jekyll Themes
+**Bachelor Creative Media and Game Technologies(expected in the future)**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KostadinHdz/KostadinHdzPrototypeMain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- My specialization in the CMGT workfield is being an Artist. I learn how to create digital assets using various programs.
 
-### Support or Contact
+# Skillset
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Software**
+- Photoshop
+- ENB postprocessor
+- Unity Engine(beginner)
+- Java(beginner)
+- Maya
+- 3ds Max
+- Substance Painter
+
+**Hand drawing**
+- I can create very realistic drawings using pencils. Mainly character concepts or portraits but I can also draw environment.
+- I can also draw with a graphical tablet using different programs(mainly photoshop).
+
+**Languages**
+- English(fluent)
+- German(beginner)
+
+
+[Go to portfolio](https://kostadinhdz.github.io/KostadinHdzPortfolio.github.io/)
