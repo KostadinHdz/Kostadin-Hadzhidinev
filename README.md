@@ -1,5 +1,3 @@
-### [Go to portfolio](https://kostadinhdz.github.io/KostadinHdzPortfolio.github.io/)
-
 # Kostadin Hadzhidinev
 I'm an aspiring artist that is currently getting into digital art. I also like to use different editors to create graphical modifications and assets for different games.
 
@@ -47,4 +45,4 @@ For the moment my goal is to expand my artist skillset by learning how to work w
 - German(beginner)
 
 
-[Go to portfolio](https://kostadinhdz.github.io/KostadinHdzPortfolio.github.io/)
+
