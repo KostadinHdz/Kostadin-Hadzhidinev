@@ -54,7 +54,7 @@ For the moment my goal is to expand my artist skillset by learning how to work w
 
 ## Maya
 
-[<img src="maya_buildings.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
+[<img src="maya_buildings.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Maya-Architexture/)
 
 ## Other
 
