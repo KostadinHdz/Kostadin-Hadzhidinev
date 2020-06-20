@@ -57,6 +57,8 @@ For the moment my goal is to expand my artist skillset by learning how to work w
 
 ## Maya
 
-
+[<img src="maya.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
 
 ## Other
+
+[<img src="other.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
