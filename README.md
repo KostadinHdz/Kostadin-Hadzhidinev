@@ -44,5 +44,18 @@ For the moment my goal is to expand my artist skillset by learning how to work w
 - English(fluent)
 - German(beginner)
 
+## Pencil drawings
 
-# Portfolio
+[<img src="portraits.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/) [<img src="character_concepts.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
+
+## Digital drawings
+
+[<img src="environment.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/) [<img src="digital_concepts.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/) [<img src="digital_other.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
+
+## Maya
+
+[<img src="maya_buildings.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
+
+## Other
+
+[<img src="enb.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
