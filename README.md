@@ -48,19 +48,19 @@ For the moment my goal is to expand my artist skillset by learning how to work w
 
 ## Pencil drawings
 
-[<img src="portraits.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzidinev-Pencil-Portraits/) 
-[<img src="character_concepts.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Pencil-Concepts//)
+[<img src="portraits.png" width="135">](https://kostadinhdz.github.io/Kostadin-Hadzidinev-Pencil-Portraits/) 
+[<img src="character_concepts.png" width="135">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Pencil-Concepts//)
 
 ## Digital drawings
 
-[<img src="environment.png" width="145">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Environment/) 
-[<img src="digital_concepts.png" width="145">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Concepts/) 
-[<img src="digital_other.png" width="145">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Other/)
+[<img src="environment.png" width="135">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Environment/) 
+[<img src="digital_concepts.png" width="135">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Concepts/) 
+[<img src="digital_other.png" width="135">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Other/)
 
 ## Maya
 
-[<img src="maya_buildings.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Maya-Architexture/)
+[<img src="maya_buildings.png" width="135">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Maya-Architexture/)
 
 ## Other
 
-[<img src="enb.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Other-ENB/)
+[<img src="enb.png" width="135">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Other-ENB/)
