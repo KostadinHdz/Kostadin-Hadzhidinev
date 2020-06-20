@@ -49,7 +49,7 @@ For the moment my goal is to expand my artist skillset by learning how to work w
 ## Pencil drawings
 
 [<img src="portraits.png" width="35">](https://kostadinhdz.github.io/Kostadin-Hadzidinev-Pencil-Portraits/) 
-[<img src="character_concepts.png" width="135">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Pencil-Concepts//)
+[<img src="character_concepts.png" width="35">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Pencil-Concepts//)
 
 ## Digital drawings
 
