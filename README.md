@@ -58,4 +58,4 @@ For the moment my goal is to expand my artist skillset by learning how to work w
 
 ## Other
 
-[<img src="enb.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev/)
+[<img src="enb.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Other-ENB/)
