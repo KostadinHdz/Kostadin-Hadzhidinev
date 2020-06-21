@@ -1,5 +1,5 @@
 # Kostadin Hadzhidinev
-I'm an aspiring artist that is currently getting into digital art. I also like to use different editors to create graphical modifications and assets for different games.
+I'm an aspiring artist that is currently getting into digital art. I like using different programs to create graphical modifications and assets for different games.
 
 <img src="imageofguy.png" width="270">
 
