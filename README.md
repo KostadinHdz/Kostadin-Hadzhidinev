@@ -37,8 +37,8 @@ For the moment my goal is to expand my artist skillset by learning how to work w
 - Substance Painter
 
 **Hand drawing**
-- I can create very realistic drawings using pencils. Mainly character concepts or portraits but I can also draw environment.
-- I can also draw with a graphical tablet using different programs(mainly photoshop).
+- I can create very realistic drawings using pencils. Character concepts is mainly what I do but I can also draw environment and other stuff.
+- I can also draw with a graphical tablet using different programs such as Photoshop.
 
 **Languages**
 - English(fluent)
