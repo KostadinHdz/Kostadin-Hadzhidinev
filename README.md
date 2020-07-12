@@ -1,5 +1,5 @@
 # Kostadin Hadzhidinev
-I'm an aspiring artist that is currently getting into digital art. I like using different programs to create graphical modifications and assets for different games.
+I'm an aspiring artist that is currently getting into digital art. I use different programs to create graphical modifications and assets for different games.
 
 <img src="imageofguy.png" width="270">
 
@@ -15,9 +15,9 @@ I'm an aspiring artist that is currently getting into digital art. I like using 
 
 # About Me
 
-I'm but a humble junior artist that wants to study. Right now I'm focusing on learning how to draw digitally and exploring different software to create assets that can be used in games. When I have free time I like to draw(preferably with pencils for now) and I also enjoy creating mods for games using different editors. I like to draw character concepts, real life people and some other characters I've met throughout gaming and watching movies.
+I'm a versatile artist that is always looking to learn more and expand his skillset. Right now I'm focusing on becoming better at drawing digitally using a tablet and I'm exploring different software to create assets that can be used in games. When I have free time I like to draw(preferably with pencils) and I also enjoy creating mods for games using different editors. I like to draw character concepts, real life people and some other characters I've met throughout gaming and watching movies. I also like level and creature designing.
 
-For the moment my goal is to expand my artist skillset by learning how to work with different popular programs.
+For the moment my goal is to improve and expand on my artist skills as I'm learning how to use some of the more popular programs used in AAA companies.
 
 # Education
 
