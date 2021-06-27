@@ -46,4 +46,4 @@ For the moment my goal is to improve and expand on my artist skills as I'm learn
 - English(fluent)
 - German(beginner)
 
-# Portfolio(https://kostadinhdz.github.io/KostadinHdz/Portfolio-Items)
+# Portfolio(https://github.com/KostadinHdz/Portfolio-Items.git)
