@@ -46,23 +46,4 @@ For the moment my goal is to improve and expand on my artist skills as I'm learn
 - English(fluent)
 - German(beginner)
 
-# Portfolio
-
-## Pencil drawings
-
-[<img src="portraits.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzidinev-Pencil-Portraits/) 
-[<img src="character_concepts.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Pencil-Concepts//)
-
-## 2d
-
-[<img src="environment.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Environment/) 
-[<img src="digital_concepts.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Concepts/) 
-[<img src="digital_other.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Other/)
-
-## 3d
-
-[<img src="maya_buildings.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Maya-Architexture/)
-
-## Other
-
-[<img src="enb.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Other-ENB/)
+# Portfolio(https://kostadinhdz.github.io/KostadinHdz/Portfolio-Items)
