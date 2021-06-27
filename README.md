@@ -39,8 +39,8 @@ For the moment my goal is to improve and expand on my artist skills as I'm learn
 - Adobe After Effects
 
 **Hand drawing**
-- I can create very realistic drawings using pencils. Character concepts is mainly what I do but I can also draw environment and other stuff.
-- I can also draw with a graphical tablet using different programs such as Photoshop.
+- Drawing with colorless pencils. Mainly draw highly detailed characters and portraits.
+- Drawing using a digital tablet and Photoshop as the main software.
 
 **Languages**
 - English(fluent)
