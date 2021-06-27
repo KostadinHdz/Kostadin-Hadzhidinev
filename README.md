@@ -15,7 +15,7 @@ I'm an aspiring artist that is currently getting into digital art. I use differe
 
 # About Me
 
-I'm a versatile artist that is always looking to learn more and expand his skillset. Right now I'm focusing on becoming better at drawing digitally using a tablet and I'm exploring different software to create assets that can be used in games. When I have free time I like to draw(preferably with pencils) and I also enjoy creating mods for games using different editors. I like to draw character concepts, real life people and some other characters I've met throughout gaming and watching movies. I also like level and creature designing.
+I'm a versatile artist that is always looking to learn more and expand his skillset. Right now I'm focusing on becoming better at drawing digitally using a tablet and I'm exploring different software to create assets that can be used in games. When I have free time I like to draw(preferably with pencils) and I also enjoy creating mods for games using different editors. I like to draw character concepts, real life people and some other characters I've met throughout gaming and watching movies. I also like designing levels and enemy creatures.
 
 For the moment my goal is to improve and expand on my artist skills as I'm learning how to use some of the more popular programs used in AAA companies.
 
@@ -28,13 +28,15 @@ For the moment my goal is to improve and expand on my artist skills as I'm learn
 # Skillset
 
 **Software**
-- Photoshop
-- ENB postprocessor
-- Unity Engine(beginner)
-- Java(beginner)
+- Adobe Photoshop
+- Unity Engine
 - Maya
-- 3ds Max
+- ZBrush
 - Substance Painter
+- Substance Designer
+- Ableton
+- Adobe Premiere Pro
+- Adobe After Effects
 
 **Hand drawing**
 - I can create very realistic drawings using pencils. Character concepts is mainly what I do but I can also draw environment and other stuff.
@@ -51,13 +53,13 @@ For the moment my goal is to improve and expand on my artist skills as I'm learn
 [<img src="portraits.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzidinev-Pencil-Portraits/) 
 [<img src="character_concepts.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Pencil-Concepts//)
 
-## Digital drawings
+## 2d
 
 [<img src="environment.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Environment/) 
 [<img src="digital_concepts.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Concepts/) 
 [<img src="digital_other.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Digital-Other/)
 
-## Maya
+## 3d
 
 [<img src="maya_buildings.png" width="165">](https://kostadinhdz.github.io/Kostadin-Hadzhidinev-Maya-Architexture/)
 
